@@ -5,7 +5,7 @@ I'm an **AI Language Engineer** and **Computational Linguist** who designs, test
 
 As part of a cross-functional team, I contributed to implementing a generative AI approach for handling customer service FAQs across **10+ countries and languages**, automating around **50% of incoming contacts**.  
 We also migrated the client’s intent classification system from a deprecated **deep learning model (Vertex AI)** to a **generative classifier powered by Gemini**, after evaluating alternatives such as **BERT**.  
-Additionally, I helped **extend the classification pipeline to handle customer emails**, expanding automation beyond chat and messaging channels.  
+Additionally, we helped **extend the classification pipeline to handle customer emails**, expanding automation beyond chat and messaging channels.  
 
 With a background in **localization** and fluency in **Spanish, English, and German**, I bring a deep understanding of linguistic and cultural nuances — an essential asset when designing AI strategies for **multilingual and international products**.  
 
