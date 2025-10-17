@@ -1,7 +1,7 @@
 # 🧠 Vanessa — AI Language Engineer & Computational Linguist
 
 ## 🤗 About Me
-I'm an **AI Language Engineer** and **Computational Linguist** who designs, tests, and evaluates **Generative AI applications**.  
+I'm an **AI Language Engineer** and **Computational Linguist** “I contribute to **generative AI solutions**, designing prompts, running experiments, and evaluating model performance, while collaborating with the team on deployment.
 
 As part of a cross-functional team, I contributed to implementing a generative AI approach for handling customer service FAQs across **10+ countries and languages**, automating around **50% of incoming contacts**.  
 We also migrated the client’s intent classification system from a deprecated **deep learning model (Vertex AI)** to a **generative classifier powered by Gemini**, after evaluating alternatives such as **BERT**.  
